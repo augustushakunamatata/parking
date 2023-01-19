@@ -1,0 +1,19 @@
+{
+  "name": "parking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fastify": "^4.11.0",
+    "fastify-jwt": "^4.2.0",
+    "fastify-plugin": "^4.4.0",
+    "fastify-validator": "^1.0.2",
+    "pg": "^8.8.0"
+  }
+}
